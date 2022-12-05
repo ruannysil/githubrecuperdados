@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #000000;
+}
+
+#app h1 {
+    color: #fff;
+}
+
+#app h1 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#app h1 a:hover {
+    color: aqua;
+}
+
+
+#app button {
+    padding: 15px 20px;
+    border-radius: 6px;
+    border: 1px solid #c1c1c1;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+#app button:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+#app p {
+    font-size: 26px;
+    padding: 0.5em 0px;
+}
