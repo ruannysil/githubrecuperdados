@@ -11,7 +11,7 @@ Projeto github recuperando dados via API.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212432624-c8914645-db57-4153-9366-4c1b81dc601c.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212432624-c8914645-db57-4153-9366-4c1b81dc601c.jpg" width="700px">
 </p>
 
 <br>
